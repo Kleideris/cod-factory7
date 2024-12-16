@@ -3,9 +3,9 @@ package gr.aueb.cf.challenges.tasks6;
 import java.util.Scanner;
 
 /**
- * Checks if an array passes 6 predicates.
+ * Checks if an array passes 5 predicates.
  */
-public class DoesArrayPassThis6Predicates {
+public class DoesArrayPassThese5Predicates {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
